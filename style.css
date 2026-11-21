@@ -82,3 +82,4 @@ nav a{padding:0;font-size:.95rem}
 .wide{grid-column:1/-1}.wide .metrics{grid-template-columns:repeat(auto-fit,minmax(120px,1fr))}.cols{margin-top:.5rem}
 @media(min-width:760px){.cols{display:grid;grid-template-columns:1fr 1fr;gap:0 2rem}}
 .sub{font:600 1rem var(--f);margin:1.2rem 0 0;color:var(--wine)}
+.shot{display:block;width:100%;height:auto;border-radius:14px;border:1px solid var(--line);margin-bottom:1rem}.wide .shot{max-width:440px}
